@@ -4,7 +4,7 @@ import base64
 
 def show_static_results():
     # --- PNGs ---
-    st.markdown("### Key Drivers of Satisfaction and Complaints")
+    st.markdown("### Key Drivers of Satisfaction and Complaints as of December 2025")
 
     plot_files = [
         ("Sentiment by Stars", "static_assets/stage5_sentiment_by_stars_explained.png"),
