@@ -48,7 +48,7 @@ def show_static_results():
 
     csv_files = {
         "All Topics Across Reviews": "static_assets/stage5_topics.csv",
-        "Topics Split by Star Rating": "static_assets/stage5_topics_by_stars.csv",
+        #"Topics Split by Star Rating": "static_assets/stage5_topics_by_stars.csv",
     }
 
     for label, path in csv_files.items():
